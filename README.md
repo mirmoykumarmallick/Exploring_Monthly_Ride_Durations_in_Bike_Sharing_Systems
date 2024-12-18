@@ -20,3 +20,10 @@ Make sure Python is installed on your system.
    ```bash
    pip install -r requirements.txt
 
+## License
+- This project is licensed under the MIT License - see the LICENSE file for details.
+  
+## Author
+- Mirmoy Kumar Mallick
+- LinkedIn Profile: linkedin.com/in/mirmoy-kumar-mallick
+- Email: mirmoykumarmallick10@gmail.com
