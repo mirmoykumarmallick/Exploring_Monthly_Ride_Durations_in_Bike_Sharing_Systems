@@ -26,4 +26,4 @@ Make sure Python is installed on your system.
 ## Author
 - Mirmoy Kumar Mallick
 - LinkedIn Profile: linkedin.com/in/mirmoy-kumar-mallick
-- Email: mirmoykumarmallick10@gmail.com
+- Email: mirmoykumarmallick99@gmail.com
